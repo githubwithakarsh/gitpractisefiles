@@ -1,6 +1,6 @@
 
 import numpy as np
-import pygame as py
 
+a=(24,8,9,314,69,12,5,98,161,884,635)
 
-print(23+23)
+print(np.max(a))
