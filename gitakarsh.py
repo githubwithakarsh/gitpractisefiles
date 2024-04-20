@@ -1,7 +1,6 @@
 import pandas as pd
-import numpy as np
-import pygame as py
 
+import aws as aw
 
 
 li=(23,55,64,72,12)
